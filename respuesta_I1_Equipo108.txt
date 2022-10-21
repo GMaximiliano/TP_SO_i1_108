@@ -9,3 +9,9 @@ BETA respuestas:
 
 c) si, los demas lo pueden ver.
 d) por Discord.
+
+Agustin Sbernini
+GAMMA respuestas:
+
+e) A través de la solapa Projects podemos ver las tareas asignadas a cada uno.
+Dentro de la solapa Issues podemos crear un foro con los topicos a tratar y realizar comentarios.
